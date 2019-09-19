@@ -1,0 +1,19 @@
+{
+  "name": "roc-esports",
+  "version": "1.0.0",
+  "description": "ROC-eSports application for the ROC van Flevoland college",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Simplyte/ROC-eSports.git"
+  },
+  "author": "Simplyte",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Simplyte/ROC-eSports/issues"
+  },
+  "homepage": "https://github.com/Simplyte/ROC-eSports#readme"
+}
